@@ -58,15 +58,3 @@ To create an **interactive dashboard** that shows insights about **revenue, book
 * Metrics list and documentation
 * Sample datasets (CSV)
 
----
-
-## 🚀 How to Run
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/hospitality-revenue-insights.git
-   ```
-2. Open `Revenue Insights in the Hospitality Domain.pbix` in **Power BI Desktop**.
-3. Interact with the dashboard using filters and visuals.
-
