@@ -1,5 +1,0 @@
-dim_date.csv
-dim_hotels.csv
-dim_rooms.csv
-fact_aggregated_bookings.csv
-fact_bookings.csv
